@@ -51,8 +51,8 @@ git config user.email account-1@example.com
 And repeat for other repos as per their related account.
 
 ### That's it, Enjoy!
-This was a real problem for me. At some point i even had VMs for separate headache-free multi-account access.  
+This was a real problem for me. At some point i even had VMs for separate, headache-free, multi-account access.  
 
-GitHub-CLI is nice offering. And i hope switching accounts also automatically configures git name and email in future.
+GitHub-CLI is a nice offering. And i hope switching accounts also automatically configures git name and email in future.
 
 Happy Tweaking!
